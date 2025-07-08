@@ -1,2 +1,3 @@
 console.log("hello from index.js!");
-console.log("feat!");
+console.log(4);
+
